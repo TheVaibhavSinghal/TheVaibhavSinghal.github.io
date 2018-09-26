@@ -5,7 +5,7 @@ image: /assets/img/blog/hydejack-8.png
 ---
 
 # About Me
-## Hydejack
+
 
 
 Hi, I am Second Year CS Undergrad @ IIITDM Kancheepuram
