@@ -285,11 +285,12 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
+ author:
  social:
    name:                Vaibhav Singhal
    links:
 #     - https://twitter.com/<username>
-     - https://github.com/thevaibhavsinghal
+     github:thevaibhavsinghal
 
 
 # Other Plugins
