@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: build
 title: My Story
 description: >
 
