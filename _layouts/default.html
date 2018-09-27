@@ -36,10 +36,10 @@ layout: base
         {% include components/post-list-item.html post=post %}
       {% endfor %}
     </ul>
-  {% endif %}
+  {% endif %}-->
 
- # {% assign pages = site.html_pages | where:"layout","page" | where_exp:"page","page.sitemap != false" %}
- # {% if pages.size > 0 %}
+ {% assign pages = site.html_pages | where:"layout","page" | where_exp:"page","page.sitemap != false" %}
+ <!--# {% if pages.size > 0 %}
  #  <h2 class="hr">{{ strings.pages | default:"Pages" }}</h2>
  #   <ul class="related-posts">
  #     {% for page in pages limit:5 %}
