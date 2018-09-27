@@ -1,9 +1,7 @@
 ---
 layout: post
 title: My Story
-description: 
-
----
+description: >
 
 Hi, I am Second Year CS Undergrad @ IIITDM Kancheepuram
 
@@ -21,4 +19,7 @@ I am proficient in C, C++, HTML, CSS.
 ## What am I currently doing?
 
 Apart from typing this blog and figuring out the purpose of my life , I am a front-end web developer @ Digital Media Team of IIITDM Kancheepuram (Soon to be back-end web developer as well).
+
+---
+
 
